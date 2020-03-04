@@ -1,4 +1,4 @@
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/d02b2ca966c0b1f6ca5e/maintainability)](https://codeclimate.com/github/Slemaitre56/ProjetExamen/maintainability)
 
 
 
@@ -19,19 +19,21 @@ En cours..à suivre.
 Projet final pour l'obtention du dîplome de Developpeur Web. 
 
 Sujet : Site proposant soit de déposer soit de chercher un trajet pour pouvoir transporter des animaux de compagnie et/ou leurs propriétaires lors d'un trajet en voiture.
-Du petit trajet pour les emmener chez le veterinaire ou bien pour les transporter de l'autre côté de la France.
+Du petit trajet pour les emmener chez le vétérinaire ou bien pour les transporter de l'autre côté de la France.
 
 Dans le temps, le site aura pour but :
 
-* de vraiment accompagner les propriétaire en leurs fournissant des conseils pour un transport sécurisant pour lui, pour le transporteur comme pour l'animal( boite de transport, medicament relaxant, jouet, nourriture, photocopie du carnet de l'animal, assurance, ...).
+* de vraiment accompagner les propriétaires en leurs fournissant des conseils pour un transport sécurisant pour lui, pour le transporteur comme pour l'animal( boite de transport, medicament relaxant, jouet, nourriture, photocopie du carnet de l'animal, assurance, ...).
 
-* de responsabiliser les transporteurs. Un contact sera a accepter lors de l'inscription. Respecter les demandes du propriétaire ( prise de medicament ou non, promenade régulière, refus de le sortir de sa boîte, friandise ou non ...). Respecter les consignes de sécurité( interdiction de laisser l'animal en totale liberté dans la voiture, le promener sans laisse, ...).
+* de responsabiliser les transporteurs. Un contact sera à accepter lors de l'inscription. Respecter les demandes du propriétaire ( prise de medicament ou non, promenade régulière, refus de le sortir de sa boîte, friandise ou non ...). Respecter les consignes de sécurité( interdiction de laisser l'animal en totale liberté dans la voiture, le promener sans laisse, ...).
 
-* d'alerter la conscience des utilisateurs du site. C'est de leur responsablité morale de dénoncer un comportement anormal des propiétaires/transporteurs ( maltraitance, élévage abusif, contrabande) via le site ou directement à la SPA.
+* d'alerter la conscience des utilisateurs du site. C'est de leur responsablité morale de dénoncer un comportement anormal des propiétaires/transporteurs ( maltraitance, élévage abusif, contrebande) via le site ou directement à la SPA.
 
-* de la créaction d'un espace privé temporaire dédié au propiétaire et au transporteur. Possibilité de discuter via un blog, d'envoyer des photos pour rassurer le propiétaire( pour long trajet envoi automatique d'alerte pour proposer au transporteur de donner des nouvels). Système de suivi comme pour un colis. Une photo sera demandée au point d'arrivée( demande d'autorisation pour l'utulisation de ces photos pour réseaux sociaux).
+* de créer un espace privé temporaire dédié au propiétaire et au transporteur. Possibilité de discuter via un blog, d'envoyer des photos pour rassurer le propiétaire( pour long trajet envoi automatique d'alerte pour proposer au transporteur de donner des nouvels). Système de suivi comme pour un colis. Une photo sera demandée au point d'arrivée( demande d'autorisation pour l'utilisation de ces photos pour réseaux sociaux).
 
 * de garder les utilisateurs en créant un système de fidélité( carte cadeaux, ou réductions).
+
+* d'ajouter plusieurs animaux pour un seul trajet/annonce.
               
               
 ### LANGAGES : 
