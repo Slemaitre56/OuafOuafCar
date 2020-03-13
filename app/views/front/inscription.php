@@ -22,7 +22,7 @@ include_once 'app/views/templates/header.php';
 <label for="pwd">Mot de passe:</label><br>
   <input type="password" id="pwd" name="pwd" required="required">            
 </div>
-<input class="btn-inscription-user" type="submit" value="Se connecter"> 
+<input class="btn-inscription-user" type="submit" value="S'inscrire"> 
             </form>
 
                 <h2 class="title"><a href="index.php?action=connexion">Déjà un compte ?</a></h2>

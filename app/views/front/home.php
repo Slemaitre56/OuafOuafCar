@@ -61,7 +61,7 @@
                             Pourquoi ne pas faire confiance à OUafOuafCar ?<br>
                             Inscrivez dès maintenant !
                         </p>
-                        <button>S'inscrire</button>
+                        <button><a href="index.php?action=inscription">S'inscrire</a></button>
                     </figure>
                 </article>
             </section>
@@ -133,7 +133,7 @@
                             Proposer un trajet et devenez un menbre de OUafOuafCar !<br>
                             Inscrivez dès maintenant !
                         </p>
-                        <button>S'inscrire</button>
+                        <button><a href="index.php?action=inscription">S'inscrire</a></button>
                     </figure>
                 </article>
             </section>

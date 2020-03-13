@@ -252,7 +252,13 @@ font-size: 20px;
     background-color: white;
     font-size: 16px;
     font-weight: bold;
+    
+}
+.iOfferBack button a,
+.iSearchBack button a{
+    text-decoration: none;
     color: #626868;
+    
 }
 
 /* profil hidden */
@@ -413,6 +419,7 @@ width: 100%;
     background-color: rgb(104, 171, 196);
     border-radius: 5%;
 }
+
 /*-------------------regex-----------------*/
 
 .regex{
@@ -505,7 +512,7 @@ margin: 20px 0;
 #form-propose .btn-propose,  #form-inscription-user .btn-inscription-user {
     padding: 15px 40px;
     border: none;
-    font-size: 15px;
+    font-size: 20px;
     color: white;
     cursor: pointer;
     background-color: rgb(255, 136, 0);
