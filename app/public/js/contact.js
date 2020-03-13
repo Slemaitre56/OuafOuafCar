@@ -27,7 +27,7 @@ function validate(val, validVal, wrapper, event) {
     if (val.validity.valueMissing) { 
         event.preventDefault(); 
         
-        wrapper.textContent = "Text manquant";
+        wrapper.textContent = "Texte manquant";
         wrapper.className = "regex"; 
  
     } else if (validVal.test(val.value) == false) { 

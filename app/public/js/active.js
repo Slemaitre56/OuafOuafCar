@@ -5,4 +5,4 @@ function menuAct(indexActive){
      element[indexActive].className += " active";
      /* mettre un script menuActiv(+valeur de l'index)*/
 }
-console.log("sdfg");
+

@@ -1,0 +1,16 @@
+{
+    "name": "steph/ouaf-ouaf-car",
+    "description": "Projet final Kercode",
+    "authors": [
+        {
+            "name": "John Smith",
+            "email": "john@example.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Projet\\" : "./app/"
+        }
+    },
+    "require": {}
+}

@@ -1,47 +1,5 @@
-<!DOCTYPE html>
-<html lang="fr">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>OuafOuafCar - Contact</title>
-        <link rel="stylesheet" href="public/css/style.css">
-        <link
-            href="https://fonts.googleapis.com/css?family=Muli&display=swap"
-            rel="stylesheet">
-    </head>
-    <body>
-        <header>
+<?php require('app/views/templates/header.php'); ?>
 
-            <nav>
-                <h1 >OuafOuafCar</h1>
-                <ul id="menuActive" class="menu-nav">
-                    <li class="nav">
-                        <a href="index.html">Accueil</a>
-                    </li>
-                    <li class="nav">
-                        <a href="cherche.html">Je cherche</a>
-                    </li>
-                    <li class="nav">
-                        <a href="propose.html">Je propose</a>
-                    </li>
-                    <li class="nav">
-                        <a href="connect.html">Connexion</a>
-                    </li>
-                    <li class="nav">
-                        <a href="contact.html">Contact</a>
-                    </li>
-                </ul>
-                <div class="bandeau">
-                    <i class="fas fa-dog" style="font-size:54px;color:white;"></i>
-                    <i class="fas fa-cat" style="font-size:40px;color:white;"></i>
-                    <i class="fas fa-crow" style="font-size:30px;color:white"></i>
-                    <i class="fas fa-fish" style="font-size:20px;color:white"></i>
-
-                    <div class="animation"></div>
-                </div>
-            </nav>
-
-        </header>
         <main class="container">
             <section class="fiche-container">
                 <!--article "je cherche" -->
@@ -50,7 +8,7 @@
                         <h2>Chien</h2>
                         <!-- Profil de l'animal -->
                         <div id="profilPet" class="profilPet">
-                            <img src="public/images/browny.jpg" alt="photo">
+                            <img src="app/public/images/browny.jpg" alt="photo">
                             <div class="namePet">
                                 <h3>Nom : Browny</h3>
                                 <p>
@@ -84,7 +42,7 @@
                         <i class=" arrowUp fas fa-angle-up"></i>
                         <!-- Profil du propiétaitre -->
                         <div class="profilProprio">
-                            <img src="public/images/girl-919048_640_opt.jpg" alt="portrait">
+                            <img src="app/public/images/girl-919048_640_opt.jpg" alt="portrait">
                             <div class="proprio">
                                 <h3>Prénom : Nathalie</h3>
                                 <p>
@@ -115,7 +73,7 @@
                         <h2>Transporteur</h2>
                         <!-- Profil dutransporteur -->
                         <div id="profilTransporteur" class="profilTransporteur">
-                            <img src="public/images/trans1.jpg" alt="photo">
+                            <img src="app/public/images/trans1.jpg" alt="photo">
                             <div class="nameTransporteur">
                                 <h3>Prénom : Nathan</h3>
                                 <p>
@@ -180,29 +138,6 @@
                 </article>
             </section>
         </main>
-
-        <footer>
-
-            <p>
-                &copy;2020 OuafOuafCar -
-                <a href="#">Tous droits réservés -
-                </a>
-            </p>
-            <p>
-                <a href="#">Site Map</a>
-            </p>
-            <div class="soc-icons">
-                <span>Nous suivre:</span>
-                <a href="#"><img src="public/images/icon-1.jpg" alt="icon"></a>
-                <a href="#"><img src="public/images/icon-2.jpg" alt="icon"></a>
-                <a href="#"><img src="public/images/icon-3.jpg" alt="icon"></a>
-            </div>
-
-        </footer>
-        <script src="public/js/active.js"></script>
+        
+        <?php require 'app/views/templates/footer.php';?>
         <script>menuAct(0); </script>
-        <script src='https://kit.fontawesome.com/a076d05399.js'></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        <!-- <script src="js/animation.js"></script> -->
-    </body>
-</html>
